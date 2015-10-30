@@ -1,0 +1,7 @@
+acd	bef	g
+acg	bef	d
+ade	bcf	g
+ace	bfg	d
+abcd	eg	f
+acef	bd	g
+acf	bg	de

@@ -1,0 +1,11 @@
+abdf	c	e
+af	b	cde
+ae	bf	cd
+a	bf	cde
+abcf	d	e
+acde	b	f
+abf	ce	d
+a	bef	cd
+adef	b	c
+a	b	cdef
+abf	cd	e
